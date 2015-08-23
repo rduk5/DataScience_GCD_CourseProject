@@ -11,5 +11,4 @@
 ###### 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ###### The final data is available by running the run_analysis.R file on the source data (output of step 5 above)
-
-###### The exact process the code does is detailed in the comments within the R code.
+###### Exact process the code does is detailed in the comments within the run_analysis.R code

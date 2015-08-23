@@ -1,8 +1,8 @@
 # DataScience_GCD_CourseProject
-#### Project takes two sets of data from the machine learning repository at UCI 
-#### Data is called "Human Activity Recognition Using Smartphones Data Set"
-#### The data consists of training and test data that need to be merged into a clean data set for analysis
-#### The R script called run_analysis.R in this repo performs this merging and cleaning in the following steps
+##### Project takes two sets of data from the machine learning repository at UCI 
+##### Data is called "Human Activity Recognition Using Smartphones Data Set"
+##### The data consists of training and test data that need to be merged into a clean data set for analysis
+##### The R script called run_analysis.R in this repo performs this merging and cleaning in the following steps
 
 ###### 1.Merges the training and the test sets to create one data set.
 ###### 2.Extracts only the measurements on the mean and standard deviation for each measurement. 

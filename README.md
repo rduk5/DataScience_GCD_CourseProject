@@ -13,7 +13,7 @@
 ###### The final data is available by running the run_analysis.R file on the source data (output of step 5 above)
 ###### Exact process the code does is detailed in the comments within the run_analysis.R code
 
-##### Below is the readme section of the orignal data series and should help a user understand the nature of the data and in particular decode the measurements in the codebook file within this repo
+###### Below is the readme section of the orignal data series and should help a user understand the nature of the data and in particular decode the measurements in the codebook file within this repo
 
 
 #####Feature Selection 
